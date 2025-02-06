@@ -4,6 +4,6 @@ b = 2
 
 c = 7
 
-name = "harry"
+name = "Tabish"
 
 print(a + b)
